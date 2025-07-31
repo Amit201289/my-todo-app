@@ -21,4 +21,3 @@ st.text_input(label="Enter a todo:", placeholder="Add new todo...",
 
 print("Hello")
 
-st.session_state
